@@ -1,0 +1,13 @@
+[project]
+name = "online-shop-assistant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "deepeval>=4.3.2",
+    "dotenv>=0.9.9",
+    "langchain>=1.4.7",
+    "langchain-anthropic>=1.7.6",
+    "pytest>=9.1.1",
+]
